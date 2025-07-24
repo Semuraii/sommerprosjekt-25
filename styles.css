@@ -5,24 +5,35 @@ head {
     text-align: center;
 }
 
-header h1 {
-    background-color: #dad7cd;
-    color: #344e41;
-    padding: 10px 0;
-    font-size: 1.5em;
+.main-header {
+    font-size: 2em;
+    margin: 0;
     text-align: center;
-    margin: 10px 10px 10px;
 }
 
-body {
-    background-color: #dad7cd;
-    color: #344e41;
-
+.main-header2 {
+    font-size: 1.5em;
+    margin: 0;
+    text-align: center;
 }
 
-body p {
-    background-color: #dad7cd;
-    color: #344e41;
+.img-main {
+    display: block;
+    margin: 0 auto;
+    border: solid 1px #344e41;
+    width: 400px;
+    height: 300px;
+}
+
+.img-main2 {
+    display: block;
+    margin: 0 auto;
+    border: solid 1px #344e41;
+    width: 400px;
+    height: 300px;
+}
+
+.text {
     font-family: Arial, sans-serif;
     text-align: center;
     font-size: 1em;
@@ -30,6 +41,22 @@ body p {
     padding: 10px;
     border: solid 1px #344e41;
     width: 50%;
+}
+
+.text2 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    margin: 0 auto;
+    padding: 10px;
+    border: solid 1px #344e41;
+    width: 50%;
+}
+
+body {
+    background-color: #dad7cd;
+    color: #344e41;
+
 }
 
 nav {
@@ -63,27 +90,6 @@ header p {
     font-size: 1em;
     text-align: center;
     margin: 10px 10px 10px;
-}
-
-section h2 {
-    background-color: #dad7cd;
-    color: #344e41;
-    font-size: 1.2em;
-    text-align: center;
-    margin: 10px 10px 10px;
-}
-
-section p {
-      background-color: #dad7cd;
-    color: #344e41;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    font-size: 1em;
-    margin: 0 auto;
-    padding: 10px;
-    border: solid 1px #344e41;
-    width: 50%;
-
 }
 
 footer {
