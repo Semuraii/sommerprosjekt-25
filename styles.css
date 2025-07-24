@@ -17,9 +17,7 @@ header h1 {
 body {
     background-color: #dad7cd;
     color: #344e41;
-    font-family: Arial, sans-serif;
-    margin: 50px 50px 50px;
-    padding: 10px;
+
 }
 
 body p {
@@ -27,10 +25,8 @@ body p {
     color: #344e41;
     font-family: Arial, sans-serif;
     text-align: center;
-    width: 80%;
-    max-width: 800px;
     font-size: 1em;
-    margin: 10px 10px 10px;
+    margin: 0 auto;
     padding: 10px;
 }
 
