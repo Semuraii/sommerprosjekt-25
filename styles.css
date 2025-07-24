@@ -86,12 +86,14 @@ nav {
     padding-left: 30px;
     padding-right: 30px;
     text-align: center;
-    margin: 10px 10px 10px;
 }
 
 nav ul {
     background-color: #dad7cd;
     color: #344e41;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
     list-style-type: none
     padding: 0;
 }
