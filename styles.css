@@ -46,6 +46,8 @@ head {
     margin: 0 auto;
     padding: 20px;
     border: solid 1px #dad7cd;
+    width: 50%;
+    height: 50px;
 }
 
 .text2 {
