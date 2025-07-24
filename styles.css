@@ -29,7 +29,6 @@ body p {
     margin: 0 auto;
     padding: 10px;
     border: solid 1px #344e41;
-    width: 50%;
 }
 
 nav {
@@ -79,7 +78,7 @@ section p {
     font-size: 1em;
     text-align: center;
     margin: 10px 10px 10px;
-    width: 50%;
+
 }
 
 footer {
