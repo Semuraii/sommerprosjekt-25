@@ -18,9 +18,18 @@ body {
     background-color: #dad7cd;
     color: #344e41;
     font-family: Arial, sans-serif;
-    text-align: center;
     margin: 0;
-    padding: 0;
+    padding: 20px;
+}
+
+body p {
+    background-color: #dad7cd;
+    color: #344e41;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    margin: 50px 50px 50px;
+    padding: 10px;
 }
 
 nav {
