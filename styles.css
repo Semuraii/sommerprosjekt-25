@@ -38,12 +38,14 @@ head {
 
 .text {
     font-family: Arial, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     font-size: 1em;
     margin: 0 auto;
     padding: 20px;
     border: solid 1px #dad7cd;
-    width: 50%;
 }
 
 .text2 {
