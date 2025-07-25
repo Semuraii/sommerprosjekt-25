@@ -7,7 +7,7 @@ head {
 
 .main-header {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 2.5em;
     margin: 0;
     text-align: center;
 }
@@ -41,7 +41,7 @@ head {
 .text {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
-    font-size: 1em;
+    font-size: 1.2em;
     margin-left:auto;
     margin-right:auto;
     margin: 0 auto;
@@ -56,7 +56,7 @@ head {
 .text2 {
    font-family: Arial, Helvetica, sans-serif;
     text-align: left;
-    font-size: 1em;
+    font-size: 1.2em;
     margin-left:auto;
     margin-right:auto;
     margin: 0 auto;
